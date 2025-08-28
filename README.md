@@ -26,7 +26,7 @@ Delight Hub aims to streamline the online food ordering process, presenting your
 
 ### Clone the Repository
 ```bash
-git clone https://github.com/abdulsalamgh/delight_hub.git
+git clone https://github.com/abdulsalam2121/Delight-Hub.git
 ```
 ### Install Dependencies
 ```bash
