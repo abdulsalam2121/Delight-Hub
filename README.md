@@ -22,14 +22,21 @@ Key Features:
     Seamless checkout process
     ✨ Responsive design, optimized for any device
 
-Getting Started:
-    Clone the Repository:
-    git clone https://github.com/abdulsalamgh/delight_hub.git
-    Install Dependencies:
-    npm install
-    Run the Development Server:
-    npm run dev
-    Open http://localhost:3000 in your browser to explore Delight Hub!
+## Getting Started
+
+### Clone the Repository
+```bash
+git clone https://github.com/abdulsalam2121/Delight-Hub.git
+```
+### Install Dependencies
+```bash
+npm install
+```
+### Run the Development Server
+```bash
+npm run dev
+```
+Open http://localhost:3000 in your browser to start exploring Delight Hub!
 
 Project Walkthrough:
 
